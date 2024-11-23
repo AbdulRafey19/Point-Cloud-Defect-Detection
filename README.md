@@ -26,7 +26,7 @@ All the PCD files tested on this algorithm were in .txt format. All files, inclu
 ![image](https://github.com/user-attachments/assets/8df27f0c-943d-4366-9472-ee41a5568f3b)
 
 ## Conclusion
-This algorithm can be used on any point cloud for defect identification and hence it could be the first step for a major breakthrough specially in the manufacturing industry where this algorithm can be used to identify defected products improving effciiency of manufacturing. 
+This algorithm can be used on any point cloud for defect identification and hence it could be the first step for a major breakthrough specially in the manufacturing industry where this algorithm can be used to identify defected products, improving effciiency of manufacturing. 
 
 
 
